@@ -1,0 +1,201 @@
+:root {
+    --main-color: #10cab7;
+    --secondary-color: #2c4755;
+    --third-color: #777;
+    --section-padding: 60px;
+    --section-background: #f6f6f6;
+    --main-duration: 0.5s;
+}
+/* Start paddig + margin */
+.p-0 {
+    padding: 0;
+}
+.p-5 {
+    padding: 5px;
+}
+.p-10 {
+    padding: 10px;
+}
+.p-15 {
+    padding: 15px;
+}
+.p-20 {
+    padding: 20px;
+}
+.p-25 {
+    padding: 25px;
+}
+.pl-5 {
+    padding-left: 5px;
+}
+.pl-10 {
+    padding-left: 10px;
+}
+.pl-15 {
+    padding-left: 15px;
+}
+.pl-20 {
+    padding-left: 20px;
+}
+.pl-25 {
+    padding-left: 25px;
+}
+.pr-5 {
+    padding-right: 5px;
+}
+.pr-10 {
+    padding-right: 10px;
+}
+.pr-15 {
+    padding-right: 15px;
+}
+.pr-20 {
+    padding-right: 20px;
+}
+.pr-25 {
+    padding-right: 25px;
+}
+.pt-0 {
+    padding-top: 0;
+}
+.pt-5 {
+    padding-top: 5;
+}
+.pt-10 {
+    padding-top: 10;
+}
+.pt-15 {
+    padding-top: 15;
+}
+.pt-20 {
+    padding-top: 20;
+}
+.pt-25 {
+    padding-top: 25;
+}
+.pb-0 {
+    padding-bottom: 0;
+}
+.pb-5 {
+    padding-bottom: 5;
+}
+.pb-10 {
+    padding-bottom: 10;
+}
+.pb-15 {
+    padding-bottom: 15;
+}
+.pb-20 {
+    padding-bottom: 20;
+}
+.pb-25 {
+    padding-bottom: 25;
+}
+.m-0 {
+    margin: 0;
+}
+.m-5 {
+    margin: 5px;
+}
+.m-10 {
+    margin: 10px;
+}
+.m-15 {
+    margin: 15px;
+}
+.m-20 {
+    margin: 20px;
+}
+.m-25 {
+    margin: 25px;
+}
+.ml-5 {
+    margin-left: 5px;
+}
+.ml-10 {
+    margin-left: 10px;
+}
+.ml-15 {
+    margin-left: 15px;
+}
+.ml-20 {
+    margin-left: 20px;
+}
+.ml-25 {
+    margin-left: 25px;
+}
+.mr-5 {
+    margin-right: 5px;
+}
+.mr-10 {
+    margin-right: 10px;
+}
+.mr-15 {
+    margin-right: 15px;
+}
+.mr-20 {
+    margin-right: 20px;
+}
+.mr-25 {
+    margin-right: 25px;
+}
+.mb-5 {
+    margin-bottom: 5px;
+}
+.mb-10 {
+    margin-bottom: 10px;
+}
+.mb-15 {
+    margin-bottom: 15px;
+}
+.mb-20 {
+    margin-bottom: 20px;
+}
+.mb-25 {
+    margin-bottom: 25px;
+}
+.mt-5 {
+    margin-top: 5px;
+}
+.mt-10 {
+    margin-top: 10px;
+}
+.mt-15 {
+    margin-top: 15px;
+}
+.mt-20 {
+    margin-top: 20px;
+}
+.mt-25 {
+    margin-top: 25px;
+}
+/* End paddig + margin */
+/*Start Flex*/
+.d-flex {
+    display: flex;
+}
+.f-wrap {
+    flex-wrap: wrap;
+}
+.align-center {
+    align-items: center;
+}
+.space-between {
+    justify-content: space-between;
+}
+.js-end {
+    justify-content: flex-end;
+}
+.d-grid {
+    display: grid;
+}
+.gap-20 {
+    gap:20px;
+}
+.d-block {
+    display: block;
+}
+.d-none {
+    display: none;
+}
+/*End Flex*/
